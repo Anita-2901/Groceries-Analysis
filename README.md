@@ -44,6 +44,7 @@
 📌 **Products with the Highest Sales Volume**
 -Bread Flour (1,002 units) has the highest sales volume, followed by Pomegranate (972) and Cauliflower (911).
 -These are high-demand items.
+![](GroceryVisuals.jpg)
 
 # RECOMMENDATIONS
 -**Prioritize Restocking High-Selling Items**
