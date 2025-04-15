@@ -28,20 +28,20 @@
 -www.kaggle.com
 
 ## 📊 KEY INSIGHT:
-- 📌 **Top 10 Products with the Highest Stock Quantity**
+📌 **Top 10 Products with the Highest Stock Quantity**
 -Bread Flour (1,120 units) is the most stocked product.
 -Others include Cauliflower, Bell Pepper, Arabica Coffee, etc.
 -Total of top 10 stock items: 8,434 units.
 
--📌 **Product Category with the Highest Stock Volume**
+📌 **Product Category with the Highest Stock Volume**
 -Fruits & Vegetables dominate with 18,489 units, followed by Dairy and Grains & Pulses.
 -Categories with lowest stock: Bakery and Beverages.
 
--📌 **Top 10 Products with the Lowest Stock Quantity**
+📌 **Top 10 Products with the Lowest Stock Quantity**
 -Products like Butter, Basmati Rice, Coconut Sugar, and Whole Wheat Bread have the lowest quantities (under 250 units).
 -These may be nearing stockout.
 
--📌 **Products with the Highest Sales Volume**
+📌 **Products with the Highest Sales Volume**
 -Bread Flour (1,002 units) has the highest sales volume, followed by Pomegranate (972) and Cauliflower (911).
 -These are high-demand items.
 
