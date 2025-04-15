@@ -25,6 +25,7 @@
 -Ranking products by quantity and sales.
 -Identifying patterns across product categories.
 # DATA SOURCE
+-www.kaggle.com
 
 ## 📊 KEY INSIGHT:
 - 📌 **Top 10 Products with the Highest Stock Quantity**
