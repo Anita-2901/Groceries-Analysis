@@ -1,7 +1,7 @@
 # Groceries-Analysis
 - This is an analysis of a Groceries store 
 # INTRODUCTION
-- This project is a data visualization dashboard showing grocery inventory metrics such as
+- This project is a data visualization dashboard showing grocery inventory metrics.
 
 # PROBLEM STATEMENT
 - Retailers and grocery store managers often struggle with maintaining optimal stock levels, minimizing waste, and identifying fast-moving products. Without proper inventory analysis, businesses risk overstocking low-demand items and understocking high-demand ones, leading to financial loss and missed sales opportunities.
