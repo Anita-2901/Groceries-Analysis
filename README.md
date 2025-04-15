@@ -12,8 +12,8 @@
 - Support data-driven restocking and purchasing decisions
   
 # SKILLS AND CONCEPTS DEMOSTRATED
--**Data Cleaning & Preparation**: Handling missing values (e.g., blank product categories), ensuring accurate totals.
--Pivot Tables & Charts (Excel or Power BI/Tableau assumed):
+-**Data Cleaning & Preparation**: Ensuring accurate totals.
+-Pivot Tables & Charts (Excel):
 -Bar charts to compare product stock levels.
 -Pie/donut charts for category sales volume.
 
